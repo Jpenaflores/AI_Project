@@ -42,3 +42,4 @@ def recommend_movies(user, users_dict):
 
 recommendations_for_alice = recommend_movies("Alice", users)
 print("Recomendaciones para Alice:", recommendations_for_alice)
+recommendation_system.py
